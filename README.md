@@ -1,4 +1,4 @@
-# AI-Powered-News-Analytics-and-Reporting-System
+# Dispatch - AI Powered News Analytics and Reporting System
 
 An end-to-end automated Python data acquisition and semantic analysis pipeline engineered for multi-keyword news discovery, web scraping, and AI-driven structured reporting.
 
