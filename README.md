@@ -34,7 +34,7 @@ This project provides an automated workflow designed to discover, extract, filte
 * **2025 Media Violation Report (Turkish):** Access the analytics report covering 2025 animal rights violation news in Turkey.
 * 👉 [HAKİM Official Publication Page](https://www.hakimkomite.org/2026/02/05/medya-ihlal-raporu-2025/) | [Direct Report Link / PDF](https://www.hakimkomite.org/wp-content/uploads/2026/02/Medya_Ihlal_Raporu-2025.pdf) *(Language: Turkish)*
 
-* **Web Platform (In Development):** The live web application is now active and deployed. Visitors can interactively test the real-time news scraping and export pipeline directly through the interface, while the AI-driven reporting features and system architecture are showcased via detailed case examples and walkthroughs. Active development, UI refinements, and continuous bug fixes are currently ongoing.
+* **Web Platform:** The live web application is now active and deployed. Visitors can interactively test the real-time news scraping and export pipeline directly through the interface, while the AI-driven reporting features and system architecture are showcased via detailed case examples and walkthroughs.
 * 👉 https://dispatch-site-dusky.vercel.app/
 
 ---
